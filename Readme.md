@@ -3,6 +3,8 @@ WordOccurrence
 
 WordOccurrence uses a Swift String extension to find the occurrence count of one word inside another. Created off the back of an interview problem posed on HackerRank in July 2016.
 
+Time given: 90 minutes
+
 ### Problem criteria
 
 * If the word parameter includes non-alphanumeric characters, -1 should be returned.
