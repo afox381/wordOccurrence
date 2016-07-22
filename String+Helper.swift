@@ -39,4 +39,9 @@ extension String {
         }
     }
     
+    func containsSubstring(subString: String) -> (String -> Bool) {
+        return { string -> Bool in
+            return string.characters.contains(subString)
+        }
+    }
 }

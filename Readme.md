@@ -12,6 +12,10 @@ Time given: 90 minutes
 * Any punctuation marks can essentially be treated as spaces. So "Word-word" counts as 2.
 * All words are case-insensitive.
 
+### Updates
+
+* Added containsSubstring function to show currying.
+
 ### Links
 
 * [HackerRank](https://www.hackerrank.com).
